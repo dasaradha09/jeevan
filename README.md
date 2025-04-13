@@ -1,4 +1,4 @@
-# 🎓 AI-Powered Student Learning Assistant
+# 🎓VIDYAAI++ : AI-Powered Student Learning Assistant
 
 ## 📘 Description
 This project is an intelligent educational web platform designed to revolutionize how students learn and practice academic subjects. It integrates AI capabilities to offer personalized learning experiences through curated YouTube playlists, multilingual teacher assistance, interactive quizzes, and even playful engagement through AI-powered games.
