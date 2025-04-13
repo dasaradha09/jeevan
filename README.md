@@ -166,8 +166,8 @@ An AUC score of 0.78 means that the model is able to correctly classify 78% of t
 
 Finally i trained the machine learning by approaching the some regression algorithms and i experienced different type of results and finally random forest and decisioon tree alogorithm has evaluated the high accuracy to predict the inputs by training the model.
 
-![WhatsApp Image 2025-04-13 at 06 48 36_3812a80d](https://github.com/user-
-attachments/assets/5963f0ef-9aa6-499e-9a31-31e4a4b5c80
+![{E2A63DBC-27FB-4E26-B5EA-91F78FBC34DD}](https://github.com/user-attachments/assets/140087d4-4979-4f89-9864-ad5d1c398916)
+
 According to the result if the student is dropped from the school the alert message is sent to the parents mail or phone number .
 
 
